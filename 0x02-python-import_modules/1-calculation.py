@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    from calculator_1 import add, sub, div, mul 
-
-""" a program that imports functions from the file calculator_1.py, does some Maths, and prints the result."""
-
+    from calculator_1 import add, sub, div, mul
+""" Prints calculated functions results"""
 a = 10
 b = 5
 print("{} + {} = {}".format(a, b, add(a, b)))
