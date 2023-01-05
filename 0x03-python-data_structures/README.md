@@ -49,6 +49,9 @@ C
     The prototypes of all your functions should be included in your header file called lists.h
     Don’t forget to push your header file
     All your header files should be include guarded
+## Table of contents 
+Files | Directory
+------|----------
 
 [0-print_list_integer.py](./0-print_list_integer.py) | Write a function that prints all integers of a list.
 [1-element_at.py](./1-element_at.py) | Write a function that retrieves an element from a list like in C.
