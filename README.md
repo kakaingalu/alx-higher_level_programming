@@ -20,6 +20,7 @@ Directory | Description
 [0x0B-python-input_output](./0x0B-python-input_output) | Introduction to python input and output.
 [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle) | Introduction to python test and JSON.
 [0x0D-SQL_introduction](./0x0D-SQL_introduction) | Introduction to SQL introduction.
+[0x0E-SQL_more_queries](./0x0E-SQL_more_queries) | Continuation to SQL introduction.
 # Student
 Joseph Kakai
 # Cohort
