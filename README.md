@@ -17,7 +17,7 @@ Directory | Description
 [0x08-python-more_classes](/.0x08-python-more_classes) | Continuation  of python classes.
 [0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to object oriented programming. 
 [0x0A-python-inheritance](./0x0A-python-inheritance) | Introduction to python inheritance.
-
+[0x0B-python-input_output](./0x0B-python-input_output) | Introduction to python input and output.
 # Student
 Joseph Kakai
 # Cohort
