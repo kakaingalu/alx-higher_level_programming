@@ -15,7 +15,9 @@ Directory | Description
 [0x06-python-classes](./0x06-python-classes) | Introduction to python classes.
 [0x07-python-test_driven_development](./0x07-python-test_driven_development) | Project of test driven development.
 [0x08-python-more_classes](/.0x08-python-more_classes) | Continuation  of python classes.
-[0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to object oriented programming.  
+[0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to object oriented programming. 
+[0x0A-python-inheritance](./0x0A-python-inheritance) | Introduction to python inheritance.
+
 # Student
 Joseph Kakai
 # Cohort
