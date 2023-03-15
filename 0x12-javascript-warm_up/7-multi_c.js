@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// a script that prints My number: <first argument converted in integer> if the first argument can be converted to an integer.
+// a script that prints x times “C is fun”.
 let i = 0;
 if (!parseInt(process.argv[2], 10)) {
   console.log('Missing number of occurrences');
