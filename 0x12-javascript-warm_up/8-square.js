@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// Print a square with the character 'X', The size of the square must be the first argument of the program.
+// a script that prints a square.
 const size = parseInt(process.argv[2], 10);
 
 if (!size) {
