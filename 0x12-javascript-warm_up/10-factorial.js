@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// a script that computes and prints a factorial
+// a script that computes and prints a factorial.
 const f = Number(process.argv[2]);
 function factorial (f) {
   if (f === 0 || isNaN(f)) {
