@@ -24,7 +24,7 @@ Directory | Description
 [0x0D-SQL_introduction](./0x0D-SQL_introduction) | Introduction to SQL introduction.
 [0x0E-SQL_more_queries](./0x0E-SQL_more_queries) | Continuation to SQL introduction.
 [0x12-javascript-warm_up](./0x12-javascript-warm_up)| Introduction to Java Script.
-
+[0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures)| Deeper understanding of javascript.
 # Student
 
 Joseph Kakai
