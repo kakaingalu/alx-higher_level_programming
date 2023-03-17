@@ -11,18 +11,17 @@ if __name__ == "__main__":
     Get data from database
     """
     states = argv[4]
+
     db_conct = MySQLdb.connect(
         host="localhost", user=argv[1], port=3306, passwd=argv[2], db=argv[3],)
 
     cursor = db_conct.cursor()
 
-    cursor.execute(f"SELECT * FROM states WHERE name LIKE BINARY '{states}' \
+    cursor.execute(
+    f"SELECT * FROM states WHERE name LIKE BINARY '{states}' \
             ORDER BY states.id ASC")
 
     states_name = cursor.fetchall()
 
     for state in states_name:
         print(state)
-
-    cursor.close()
-    db_conct.close()
