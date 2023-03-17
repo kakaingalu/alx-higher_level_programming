@@ -16,7 +16,9 @@ if __name__ == "__main__":
                                db=argv[3], charset="utf8")
 
     cursor = db_conct.cursor()
-    query = "SELECT cities.id, cities.name, states.name FROM cities INNER JOIN states ON cities.state_id = states.id ORDER BY cities.id ASC"
+    query = "SELECT cities.id, cities.name, states.name FROM cities\
+            INNER JOIN states ON cities.state_id = states.id ORDER\
+            BY cities.id ASC"
     cursor.execute(query)
 
     states_name = cursor.fetchall()
