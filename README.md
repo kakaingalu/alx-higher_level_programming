@@ -1,7 +1,9 @@
 ## alx-higher_level_programming
 
+
 # Description
 Introduction to Python programming language
+
 
 # Table of contents
 Directory | Description
@@ -15,8 +17,16 @@ Directory | Description
 [0x06-python-classes](./0x06-python-classes) | Introduction to python classes.
 [0x07-python-test_driven_development](./0x07-python-test_driven_development) | Project of test driven development.
 [0x08-python-more_classes](/.0x08-python-more_classes) | Continuation  of python classes.
-[0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to object oriented programming.  
+[0x09-python-everything_is_object](./0x09-python-everything_is_object) | Introduction to object oriented programming. 
+[0x0A-python-inheritance](./0x0A-python-inheritance) | Introduction to python inheritance.
+[0x0B-python-input_output](./0x0B-python-input_output) | Introduction to python input and output.
+[0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle) | Introduction to python test and JSON.
+[0x0D-SQL_introduction](./0x0D-SQL_introduction) | Introduction to SQL introduction.
+[0x0E-SQL_more_queries](./0x0E-SQL_more_queries) | Continuation to SQL introduction.
+[0x12-javascript-warm_up](./0x12-javascript-warm_up)| Introduction to Java Script.
+[0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures)| Deeper understanding of javascript.
 # Student
+
 Joseph Kakai
 # Cohort
 9
