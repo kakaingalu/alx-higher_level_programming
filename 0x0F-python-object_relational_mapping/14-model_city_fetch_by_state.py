@@ -8,8 +8,7 @@ from sys import argv
 from model_state import State, Base
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from model_city import city
-
+import model_city
 if __name__ == "__main__":
     """
     Access to the database and get the states
@@ -24,11 +23,13 @@ if __name__ == "__main__":
 
     session = Session()
 
-    query = session.query(City, State).filter(City.state_id == State.id)\
-            .order_by(City.id).all()
-    
-    for city, state in query:
-        print("{}: ({}) {}".format(state.name, city.id, city.name))
+    query = session.query(model_city.City, State).filter(
+            model_city.City.state_id == State.id).order_by(
+                    model_city.City.id).all()
+
+    for model_city.city, state in query:
+        print("{}: ({}) {}".format(
+            state.name, model_city.city.id, model_city.city.name))
 
     session.commit()
 
