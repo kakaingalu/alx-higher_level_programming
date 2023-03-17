@@ -12,7 +12,7 @@ if __name__ == "__main__":
     """
 
     db_conct = MySQLdb.connect(
-        host="localhost", user=argv[1], port=3306, passwd=argv[2], db=argv[3],)
+        host="localhost", user=argv[1], port=3306, passwd=argv[2], db=argv[3])
 
     cursor = db_conct.cursor()
 
@@ -23,3 +23,6 @@ if __name__ == "__main__":
 
     for state in states_name:
         print(state)
+
+    cursor.close()
+    db_conct.close()
