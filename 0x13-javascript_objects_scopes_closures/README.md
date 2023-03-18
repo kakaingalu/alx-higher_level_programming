@@ -3,7 +3,7 @@
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## General
-Why JavaScript programming is amazing
+- Why JavaScript programming is amazing
 How to create an object in JavaScript
 What this means
 What undefined means
