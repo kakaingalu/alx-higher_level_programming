@@ -44,7 +44,7 @@ $ sudo apt-get install -y nodejs
 $ sudo npm install semistandard --global
 ```
 
-## Table ofContents 
+## Table of Contents 
 File | Description
 -----|------------
 [0-rectangle.js](./0-rectangle.js) | an empty class Rectangle that defines a rectangle.
