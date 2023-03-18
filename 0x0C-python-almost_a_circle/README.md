@@ -54,3 +54,6 @@ Files | Description
 [models/rectangle.py](./models/rectangle.py) | The file contans a class Rectangle that inherits from Base.
 [models/square.py](./models/square.py) | The file contains a class Square that inherits from Rectangle.
 [models/](./models/) | a folder containing the python files which have classes which will be tested by the test files.
+
+## Cohort
+9
