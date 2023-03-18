@@ -1,7 +1,7 @@
 # 0x0D. SQL - Introduction
 
 ## Learning Objectives
--At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+- At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 # General
 - Whats a database
