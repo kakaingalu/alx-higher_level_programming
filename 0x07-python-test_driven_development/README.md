@@ -62,4 +62,6 @@ Files | Description
 [100-matrix_mul.py](./100-matrix_mul.py) [tests/100-matrix_mul.txt](./tests/100-matrix_mul.txt) |  a function that multiplies 2 matrices.
 [101-lazy_matrix_mul.py](./101-lazy_matrix_mul.py) [tests/101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt) | a function that multiplies 2 matrices by using the module NumPy.
 [102-python.c](./102-python.c) | a function that prints Python strings.
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230319%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230319T125930Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=709aacb20fef749e77c713942b8241e547fa36fd4ad019882c0c045160ffd822">
+
+## Cohort
+9
