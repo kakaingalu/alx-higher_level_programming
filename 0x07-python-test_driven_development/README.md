@@ -55,5 +55,11 @@ Files | Description
 ------|------------
 [0-add_integer.py](./0-add_integer.py) [tests/0-add_integer.txt](./tests/0-add_integer.txt) |  a function that adds 2 integers.
 [2-matrix_divided.py](./2-matrix_divided.py) [tests/2-matrix_divided.txt](./tests/2-matrix_divided.txt) | a function that divides all elements of a matrix.
-[3-say_my_name.py](./3-say_my_name.py) [tests/3-say_my_name.txt](./tests/3-say_my_name.txt) | a function that prints My name is <first name> <last name>.<br>
+[3-say_my_name.py](./3-say_my_name.py) [tests/3-say_my_name.txt](./tests/3-say_my_name.txt) | a function that prints My name is `<first name> <last name>.`
 [4-print_square.py](./4-print_square.py) [tests/4-print_square.txt](./tests/4-print_square.txt) | a function that prints a square with the character #.
+[5-text_indentation.py](./5-text_indentation.py) [tests/5-text_indentation.txt](./tests/5-text_indentation.txt) | a function that prints a text with 2 new lines after each of these characters: ., ? and :
+[tests/6-max_integer_test.py](./tests/6-max_integer_test.py) | unittests for the function `def max_integer(list=[]):`.
+[100-matrix_mul.py](./100-matrix_mul.py) [tests/100-matrix_mul.txt](./tests/100-matrix_mul.txt) |  a function that multiplies 2 matrices.
+[101-lazy_matrix_mul.py](./101-lazy_matrix_mul.py) [tests/101-lazy_matrix_mul.txt](./tests/101-lazy_matrix_mul.txt) | a function that multiplies 2 matrices by using the module NumPy.
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/2c4f2b92514745519f833afdf5bc5f3eaff8c6ca.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230319%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230319T125930Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=709aacb20fef749e77c713942b8241e547fa36fd4ad019882c0c045160ffd822" alt="" loading="lazy" style="">
+[102-python.c](./102-python.c) | a function that prints Python strings.
