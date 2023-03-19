@@ -24,4 +24,5 @@
 >>>
 ```
 
-<img src="https://giphy.com/gifs/batman-look-whoa-wAjfQ9MLUfFjq">
+<img src="[https://giphy.com/gifs/batman-look-whoa-wAjfQ9MLUfFjq](https://media.giphy.com/media/wAjfQ9MLUfFjq/giphy.gif)">
+
