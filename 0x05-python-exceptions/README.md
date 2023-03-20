@@ -47,7 +47,7 @@ Files | Description
 [103-python.c](./103-python.c) | C functions that print some basic info about Python lists, Python bytes an Python float objects.
 
 ## Video of the question
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/070710952984e4d126e114405cefe83af2271ce8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230320%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230320T075100Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=06954d150a34b61d7ec0de196e1e27d6f4ee3bf9ee5a73be4f92945523068380" alt="" loading="lazy" style="">
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uplo…d7ec0de196e1e27d6f4ee3bf9ee5a73be4f92945523068380">
 
 ## cohort
 9
