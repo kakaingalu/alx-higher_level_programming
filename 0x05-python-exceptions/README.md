@@ -46,8 +46,5 @@ Files | Description
 [102-magic_calculation.py](./102-magic_calculation.py) | Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode.
 [103-python.c](./103-python.c) | C functions that print some basic info about Python lists, Python bytes an Python float objects.
 
-## Video of the question
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uplo…d7ec0de196e1e27d6f4ee3bf9ee5a73be4f92945523068380">
-
 ## cohort
 9
