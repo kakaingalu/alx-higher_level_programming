@@ -4,7 +4,7 @@
 const request = require('request');
 
 const apiUrl = process.argv[2];
-const characterId = '18/';
+const characterId = '18';
 
 request(apiUrl, function (error, response, body) {
   if (error) {
@@ -12,11 +12,14 @@ request(apiUrl, function (error, response, body) {
   } else {
     const films = JSON.parse(body).results;
     let count = 0;
-    films.forEach(function (film) {
-      if (film.characters.includes(`https://swapi-api.alx-tools.com/api/people/${characterId}`)) {
-        count++;
+    for (let n = 0; n < films.length; n++) {
+      const data = films[n].characters;
+      for (let m = 0; m < data.length; m++) {
+        if (data[m].includes(`${characterId}`)) {
+          count++;
+        }
       }
-    });
+    }
     console.log(count);
   }
 });
